@@ -28,6 +28,7 @@ public class Sieve2 {
         {
             if (isPrime[i]==true){
                 System.out.println(i);
+                //print
             }
         }
 
